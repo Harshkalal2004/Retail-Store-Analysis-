@@ -1,2 +1,2 @@
 # Retail-Store-Analysis-
-Super Store Analysis using Excel. 
+Super Store Data Analysis using Excel. 
